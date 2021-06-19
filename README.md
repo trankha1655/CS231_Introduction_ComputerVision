@@ -15,7 +15,7 @@
 | STT | Họ tên | MSSV | Thành viên | E-mail | Github | Task chính  |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Trần Phan Nhật Kha | 19521655 | Thành viên | 19521655@gm.uit.edu.vn | [trankha1655](https://github.com/trankha1655) |
-| 2 | Nguyễn Phú Vinh |  | Thành viên | @gm.uit.edu.vn | [name](url) |
+| 2 | Nguyễn Phú Vinh | 19522524 | Thành viên | 19522524@gm.uit.edu.vn | [phuvinh010701](https://github.com/phuvinh010701) |
 
 
 ## [Assignment]()
